@@ -1,0 +1,16 @@
+import java.io.InputStream;
+
+public class Scanner {
+
+    public int nextInt;
+
+    public Scanner(InputStream in) {
+        //TODO Auto-generated constructor stub
+    }
+
+    public String nextLine() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'nextLine'");
+    }
+
+}
