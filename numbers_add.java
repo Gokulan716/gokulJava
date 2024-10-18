@@ -9,8 +9,8 @@ public class numbers_add {
         int rem2= num%10;
         num= num/10;
         int rem3= num%10; */
-        int rem;
-        int sum=0;
+        //int rem;
+     //   int sum=0;
 
     /*   do{
            rem= num%10;
