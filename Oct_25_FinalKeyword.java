@@ -22,11 +22,7 @@ public static void main(String[] args) {
     marima ma= new marima();
     ma.game();
     ma.game2();
-    System.out.println(ma.na);
-
-    
+    System.out.println(ma.na);   
 }
-
-
 }
 
